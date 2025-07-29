@@ -14,16 +14,5 @@ This project predicts employee salaries based on age, gender, education level, j
 
 ---
 
-## 📁 Folder Structure
-
-employee-salary-prediction/
-│
-├── Salary Data.csv
-├── model_training.ipynb # Colab notebook for training
-├── xgb_model.pkl # Trained XGBoost model
-├── label_encoders.pkl # Saved LabelEncoders
-├── app.py # Streamlit web app
-├── requirements.txt
-└── README.md
 
 
